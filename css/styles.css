@@ -1,4 +1,4 @@
-                      /* Header styling */
+/* Header styling */
 
 .main {
   box-sizing: border-box;
@@ -19,4 +19,11 @@
 
 #mainentity {
   font-size: 3em;
+}
+
+/* Gallery Styling */
+
+.gallery {
+  text-align: center;
+  margin: 15px 0 0 0;
 }
