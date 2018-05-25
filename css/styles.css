@@ -31,7 +31,7 @@ body {
 }
 
 #mainentity {
-  font-size: 3em;
+  font-size: 2.7em;
 }
 
 /* Gallery Styling */
@@ -89,7 +89,7 @@ footer {
 
 /* About Me Styling */
 #aboutme {
-  height: 350px;
+  height: 325px;
   float: left;
   margin-right: 20px;
 }
