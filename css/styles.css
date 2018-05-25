@@ -1,7 +1,20 @@
 .main {
+  box-sizing: border-box;
   text-align: center;
-  padding: 50px 0;
-  background: url('../img/mainimage.jpg') center;
+  padding: 50px 0 40px 0;
+  background: linear-gradient(black, transparent 100%),
+              url('../img/mainimage.jpg') no-repeat center;
   background-size: cover;
+  font-size: 1.5em;
+  color: white;
+  opacity: 0.8;
+}
 
+.main h1 {
+  font-size: 3em;
+  opacity: 1;
+}
+
+#mainentity {
+  font-size: 3em;
 }
