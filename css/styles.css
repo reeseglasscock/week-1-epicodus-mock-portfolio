@@ -4,6 +4,11 @@ body {
   font-family: 'Sunflower', sans-serif;
 }
 
+/* Navbar Styling */
+
+#logo {
+  height: 40px;
+}
 
 /* Header styling */
 
