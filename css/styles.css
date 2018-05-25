@@ -94,10 +94,19 @@ footer {
   margin-right: 20px;
 }
 
-#bio {
-  float: right;
-}
-
 .aboutmecontainer {
   padding-top: 40px;
+}
+
+.ed-img li{
+  list-style: none;
+  list-style-position: inside;
+
+}
+
+.ed-img img {
+  height: 60px;
+  margin: 10px 10px;
+  border-radius: 50%;
+  border: 2px solid black;
 }
