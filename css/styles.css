@@ -33,7 +33,11 @@ body {
 
 .gallery {
   text-align: center;
-  margin: 15px 0 15px 0;
+  margin: 20px 0 15px 0;
+  color: white;
+  font-size: 3em;
+  text-shadow: -2px -2px 8px black;
+
 }
 
 .gallerycontent {
