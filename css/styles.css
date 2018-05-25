@@ -43,6 +43,10 @@ body {
   margin-right: 10px;
 } */
 
-.card {
+/* .card {
   margin: 20px 10px 40px 10px;
+} */
+
+.card-columns {
+  padding: 20px 40px;
 }
