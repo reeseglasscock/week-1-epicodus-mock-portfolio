@@ -98,6 +98,10 @@ footer {
   padding-top: 40px;
 }
 
+.aboutmecontainer span:hover {
+ color: red;
+}
+
 .ed-img li{
   list-style: none;
   list-style-position: inside;
@@ -109,4 +113,9 @@ footer {
   margin: 10px 10px;
   border-radius: 50%;
   border: 2px solid black;
+  transition: transform .6s ease-in-out;
+}
+
+.ed-img img:hover {
+  transform: rotate(720deg);
 }
