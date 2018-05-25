@@ -33,19 +33,16 @@ body {
 
 .gallery {
   text-align: center;
-  margin: 20px 0 15px 0;
+  margin: 20px 5px 15px 5px;
   color: white;
   font-size: 3em;
   text-shadow: -2px -2px 8px black;
-
 }
 
-.gallerycontent {
-  float: none;
-  margin: 0 auto;
-  width: inherit;
-}
+/* .gallerycontent {
+  margin-right: 10px;
+} */
 
 .card {
-  margin: 20px 0 40px 0;
+  margin: 20px 10px 40px 10px;
 }
