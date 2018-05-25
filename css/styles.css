@@ -25,5 +25,15 @@
 
 .gallery {
   text-align: center;
-  margin: 15px 0 0 0;
+  margin: 15px 0 15px 0;
+}
+
+.gallerycontent {
+  float: none;
+  margin: 0 auto;
+  width: inherit;
+}
+
+.card {
+  margin: 20px 0 40px 0;
 }
