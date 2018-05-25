@@ -43,9 +43,9 @@ body {
   margin-right: 10px;
 } */
 
-/* .card {
-  margin: 20px 10px 40px 10px;
-} */
+.card {
+  box-shadow: 4px 5px 6px rgba(34,34,34,0.6);
+}
 
 .card-columns {
   padding: 20px 40px;
