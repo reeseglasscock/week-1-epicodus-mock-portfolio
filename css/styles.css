@@ -35,18 +35,21 @@ body {
 }
 
 /* Gallery Styling */
-
+.gallerycontainer {
+  margin: auto;
+}
 .gallery {
+  width: 50%;
   text-align: center;
-  margin: 20px 5px 15px 5px;
+  margin: auto;
   color: white;
   font-size: 3em;
   text-shadow: -2px -2px 8px black;
-}
+  padding: 25px 0 15px 0;
+  border-bottom: 3px solid rgba(34,34,34,0.8);
+  width: 70%;
 
-/* .gallerycontent {
-  margin-right: 10px;
-} */
+}
 
 .card {
   box-shadow: 4px 5px 6px rgba(34,34,34,0.6);
@@ -56,9 +59,14 @@ body {
   padding: 20px 40px;
 }
 
+.gallerycontent {
+  padding-top: 40px;
+}
+
 /* Footer Styling */
 
 footer {
   padding: 10px;
-  background-color: rgba(109, 109, 109, 0.3);
+  background-color: rgba(109, 109, 109, 0.8);
+  color: white;
 }
