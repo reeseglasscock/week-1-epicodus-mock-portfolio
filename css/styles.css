@@ -53,6 +53,7 @@ body {
 /* Gallery Styling */
 .gallerycontainer {
   margin: auto;
+  margin-bottom: 10px;
 }
 .gallery {
   width: 50%;
