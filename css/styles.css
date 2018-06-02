@@ -2,6 +2,7 @@ body {
   background: url(../img/backdrop.png) repeat right;
   background-size: cover;
   font-family: 'Sunflower', sans-serif;
+  margin-bottom: 40px;
 }
 
 /* Navbar Styling */
@@ -53,7 +54,6 @@ body {
 /* Gallery Styling */
 .gallerycontainer {
   margin: auto;
-  margin-bottom: 10px;
 }
 .gallery {
   width: 50%;
