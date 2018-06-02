@@ -103,6 +103,9 @@ footer {
   padding: 10px;
   background-color: rgba(22, 22, 22, 0.8);
   color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 /* About Me Styling */
