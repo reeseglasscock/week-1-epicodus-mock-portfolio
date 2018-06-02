@@ -2,7 +2,6 @@ body {
   background: url(../img/backdrop.png) repeat right;
   background-size: cover;
   font-family: 'Sunflower', sans-serif;
-  margin-bottom: 40px;
 }
 
 /* Navbar Styling */
@@ -103,7 +102,7 @@ footer {
   padding: 10px;
   background-color: rgba(22, 22, 22, 0.8);
   color: white;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
